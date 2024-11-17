@@ -1,39 +1,27 @@
-# umeshsinghin.github.io
+<h1 align="left">Hi 👋 I'm Umesh Singh</h1>
 
-## Welcome to GitHub Pages
+- 🌱 I am Working as a WordPress Developer With Experience in Theme Development, Plugin Development & Also have Expertise with different Page Builders. (Elementor, Beaver Builder, WP Bakery Visual Composer, Divi Builder)
+- 🔭 I’m Currently Learning about Gutenberg Custom Block Developement.
+- 📫 Reach me :-  **mrumeshyadav18@gmail.com**
 
-You can use the [editor on GitHub](https://github.com/umeshsinghin/umeshsinghin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h2 align="left">🌏 Find Me:</h2>
+<div align="left">
+ 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/umeshpalsingh)
+[![image](https://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/umeshsinghin/) 
+[![image](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umeshsinghin)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrumeshyadav18@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</div>
 
-### Markdown
+<h2 align="left">📊 My GitHub Stats:</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div align="left">
+     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshsinghin&theme=aura_dark" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshsinghin&theme=aura_dark" /></a>
+     <a href="https://github-readme-stats.vercel.app/api?username=umeshsinghin&theme=aura_dark&show_icons=true" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=umeshsinghin&theme=aura_dark&show_icons=true" /></a>
+</div>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/umeshsinghin/umeshsinghin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2 align="left">📊 My GitHub Badges:</h2>
+<a align="left" href="https://github-profile-trophy.vercel.app/?username=umeshsinghin&theme=aura_dark&show_icons=true" target="_blank">
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=umeshsinghin&theme=aura_dark" alt="umesh Singh" />
+</a>
